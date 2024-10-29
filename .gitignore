@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual Environments
+venv/
+.venv/
+.env
+
+# PyCharm
+.idea/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Audio and Output Files
+input/
+output/
+temp_mono.wav
